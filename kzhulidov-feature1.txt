@@ -1,2 +1,3 @@
 Some text
 CHANGE1
+CHANGE2
